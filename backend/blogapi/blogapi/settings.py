@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'blog',
     'corsheaders',
+    'drf_yasg',
 
 ]
 CORS_ALLOW_ALL_ORIGINS = True
